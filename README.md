@@ -8,11 +8,11 @@ Moildev is depend on the development platform, that is, moildev.a for x86/x64 an
 Repositories : 
 
     A. Moildev ( PRIVATE)
-    https://github.com/cjchng/moildev
+    <https://github.com/cjchng/moildev>
     B. Moil_SDK ( PUBLIC )
-    https://github.com/cjchng/moil_sdk
+    <https://github.com/cjchng/moil_sdk>
     C. Mainmoil_6View ( Public )
-    https://github.com/cjchng/mainmoil_6view
+    <https://github.com/cjchng/mainmoil_6view>
 
 
 
@@ -25,10 +25,11 @@ Repositories :
 Qt_Moildev is a shared library(.so) for Qt development environment. The generated library
 must be installed in the development environment. Please see the instructions in 
 the repositories. 
+
     A. Qt_Moildev ( PRIVATE )
-    https://github.com/cjchng/qt_moildev 
+    <https://github.com/cjchng/qt_moildev> 
     B. Qt_Mainmoil ( PRIVATE ), include the required .so library and install script.
-    https://github.com/yourskc/qt_mainmoil
+    <https://github.com/yourskc/qt_mainmoil>
 
 ![MOIL Development Workflow_p2](https://user-images.githubusercontent.com/3524867/76945624-bfcc9a00-693d-11ea-82b6-2469101685d9.png)
 
