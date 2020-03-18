@@ -9,15 +9,15 @@ Repositories :
 
 A. Moildev ( PRIVATE)
 
-    <https://github.com/cjchng/moildev>
+<https://github.com/cjchng/moildev>
     
 B. Moil_SDK ( PUBLIC )
 
-    <https://github.com/cjchng/moil_sdk>
+<https://github.com/cjchng/moil_sdk>
 
 C. Mainmoil_6View ( Public )
 
-    <https://github.com/cjchng/mainmoil_6view>
+<https://github.com/cjchng/mainmoil_6view>
 
 
 
