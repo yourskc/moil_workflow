@@ -31,10 +31,14 @@ Qt_Moildev is a shared library(.so) for Qt development environment. The generate
 must be installed in the development environment. Please see the instructions in 
 the repositories. 
 
-    A. Qt_Moildev ( PRIVATE )
-    <https://github.com/cjchng/qt_moildev> 
-    B. Qt_Mainmoil ( PRIVATE ), include the required .so library and install script.
-    <https://github.com/yourskc/qt_mainmoil>
+A. Qt_Moildev ( PRIVATE )
+
+<https://github.com/cjchng/qt_moildev> 
+
+B. Qt_Mainmoil ( PRIVATE ), include the required .so library and install script.
+
+<https://github.com/yourskc/qt_mainmoil>
+
 
 ![MOIL Development Workflow_p2](https://user-images.githubusercontent.com/3524867/76945624-bfcc9a00-693d-11ea-82b6-2469101685d9.png)
 
